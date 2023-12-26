@@ -1,0 +1,32 @@
+_repo: Bits-from-Blinkbonny-or-Bell-o-the-Manse-b-a-tale-of-Scottish-village-life-between-1841-and-1__72243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strathesk, John
+    alias: Tod, John
+    gutenberg_agent_id: '56610'
+    url: http://www.gutenberg.org/2009/agents/56610
+description: ''
+gutenberg_issued: '2023-11-27'
+identifiers:
+  gutenberg: '72243'
+language: en
+pgterms:marc904: https://archive.org/details/bitsfronblinkbon00stra/page/n21/mode/2up
+pgterms:marc905: 20211211120233strathesk
+pgterms:marc906: '1885'
+pgterms:marc907: CA
+production_note: Susan Skinner, Quentin Campbell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aToronto :$bWilliam Briggs, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Scotland -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Bits from Blinkbonny; or, Bell o'' the Manse : $b a tale of Scottish village
+  life between 1841 and 1851'
+url: http://www.gutenberg.org/ebooks/72243
