@@ -1,5 +1,8 @@
 _repo: Bits-from-Blinkbonny-or-Bell-o-the-Manse-b-a-tale-of-Scottish-village-life-between-1841-and-1__72243
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72243-h/images/cover.jpg
 creator:
   author:
     agent_name: Strathesk, John
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '56610'
     url: http://www.gutenberg.org/2009/agents/56610
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72243#Bits-from-Blinkbonny-or-Bell-o-the-Manse-b-a-tale-of-Scottish-village-life-between-1841-and-1_
 gutenberg_issued: '2023-11-27'
 identifiers:
   gutenberg: '72243'
